@@ -4,7 +4,7 @@
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Mission Log</h1>
+        <h1 style="color: white;">Mission Log</h1>
       </div>
       <div class="section-content-container">
         <h3>Current Assignment</h3>
@@ -34,7 +34,7 @@
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
-          <h1>Pilot Roster</h1>
+          <h1 style="color: white;">Pilot Roster</h1>
         </div>
         <div class="rhombus-back">&nbsp;</div>
       </div>
@@ -148,9 +148,9 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "UNION",
-        "headerSubtitle": "Mercenary Company",
+        "headerSubtitle": "Task Force",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Carrier Rio Grande",
       },
       "options":{
         "eventsMarkdownPerMission": true
