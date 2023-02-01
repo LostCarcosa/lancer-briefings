@@ -142,9 +142,9 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
+        "planet": "Cressidium",
+        "year": "5013u",
+        "system": "Mu Cassiopeiae ",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "UNION",
