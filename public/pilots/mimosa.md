@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+A tall Cosmopolitan woman with striking streaks of electric blue and white in her dark hair. Attentive to details and her own thoughts at the occasional detriment of everything else, she can come off as brusque or removed. Experienced in surveying and combat. She could perhaps be mistaken for a quiet, rough-and-tumble colonist, if not for her current occupation as a Lancer.
