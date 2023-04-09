@@ -89,17 +89,17 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "SR002",
       "current_md": "",
-      "events": "001",
+      "events": "SR001",
       "missions": [
         {
-          "slug": "001",
+          "slug": "SR001",
           "name": "The Drop",
           "status": "partial-success"
         },
         {
-          "slug": "002",
+          "slug": "SR002",
           "name": "Daybreak",
           "status": "start"
         }
