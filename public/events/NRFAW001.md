@@ -1,15 +1,24 @@
 # Union Dropship  // 4.30.5013u
-Union Crisis Response Task Force [INSERT NAME HERE], consisting of **Astri 3133** (Callsign: **SEEKER**), **Hypatia Doe** (Callsign: **MIMOSA**), **Khalid** (Callsign: **EMBERS**), and **Vesper** (Callsign: **FLARE**), has been deployed to the planet **Hercynia** in response to a distress call from the settlement **Evergreen**. Along with your deployment orders, you recieve the following briefing regarding the situation on the planet:
+Union Crisis Response Task Force, consisting of **Astri 3133** (Callsign: **SEEKER**), **Hypatia Doe** (Callsign: **MIMOSA**), **Khalid** (Callsign: **EMBERS**), and **Vesper** (Callsign: **FLARE**), has been deployed to the planet **Hercynia** in response to a distress call from the settlement **Evergreen**. Along with your deployment orders, you recieve the following briefing regarding the situation on the planet:
 
 > System: Ardennes-3
+> 
 > Gate: Atlas-Quanokrim
+> 
 > Planet: Hercynia
+> 
 > Gate: Atlas-Line
+> 
 > Details:
+> 
 > **Hercynia**- rediscovered circa 4943u. Wet, temperate climate; breathable atmosphere. Gravity is 0.94 galactic standard. 20-hour day, 305 day year. Extant flora and fauna on planet. Overall: 9.4/10 habitability.
+> 
 > Hercynia was colonized by **Landmark Colonial** (a subsidiary of **Smith-Shimano Corpro**), which established the settlement of **Evergreen** in 4964u. Colonization efforts are still young. There are no competing colonial efforts.
+> 
 > Hercynia was once part of SecComm's expansionary efforts. Few records remain regarding SecComm's original colonization of the planet; expect occasional military debris, including but not limited to unexploded ordnance and radioactive waste.
+> 
 > Deployment:
+> 
 > Evergreen requests aid due to a series of attacks beginning in 5012u upon the colony, executed by unidentified, well-armed assailants. Assist Evergreen and stabilize the situation upon the ground. 
 
 The party is transferred from Rio Grande to a interstellar transport vessel, beginning the long journey to Hercynia. 
