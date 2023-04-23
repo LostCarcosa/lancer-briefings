@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "SR002",
+      "mission_slug": "NRFAW001",
       "current_md": "",
-      "events": "SR001",
+      "events": "NRFAW001",
       "missions": [
         {
           "slug": "SR001",
@@ -101,6 +101,11 @@ export default {
         {
           "slug": "SR002",
           "name": "Daybreak",
+          "status": "success"
+        },
+        {
+          "slug": "NRFAW001",
+          "name": "Bug Hunt",
           "status": "start"
         }
       ],
@@ -109,9 +114,9 @@ export default {
           "callsign": "Seeker",
           "alias": "Astri-3133",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Nova"
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "Nebula"
         },
         {
           "callsign": "Mimosa",
@@ -125,9 +130,9 @@ export default {
           "callsign": "Flare",
           "alias": "Vesper",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Bombs Away"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "No Escape"
         },
         {
           "callsign": "Embers",
@@ -139,15 +144,15 @@ export default {
         }
       ],
       "header": {
-        "planet": "Cressidium",
-        "year": "5013u",
-        "system": "Mu Cassiopeiae ",
+        "planet": "Hercynia",
+        "year": "5014u",
+        "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "UNION",
         "headerSubtitle": "Task Force",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Carrier Rio Grande",
+        "subheaderSubtitle": "Evergreen",
       },
       "options":{
         "eventsMarkdownPerMission": true
