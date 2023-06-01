@@ -138,9 +138,9 @@ export default {
           "callsign": "Embers",
           "alias": "Khalid",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Horizon"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "Rhythmless Walk"
         }
       ],
       "header": {
