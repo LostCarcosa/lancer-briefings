@@ -76,7 +76,7 @@ The party begins escorting Engineer Fielding and the CEC out toward the landing 
 
 ### Combat Report: Protect the Engineers
 
-An ESCORT sitrep, the party must escort the CEC vehicles across the map while surviving the onslaught of these unknown attackers. There are two vehicles to escort; sucessfully extracting even one will count as a victory, but extracting both will earn some additional favor from Chief Engineer Fielding.
+An ESCORT sitrep, the party must escort the CEC vehicles across the map while surviving the onslaught of these unknown attackers. There are ~~two~~ three vehicles to escort; successfully extracting ~~even one~~ two will count as a victory, but extracting ~~both~~ all three will earn some additional favor from Chief Engineer Fielding.
 
 The enemy OPFOR consists of a BASTION, ASSAULT, SCOUT, and RONIN- which is soon joined by additional RONINs creeping out from the trees. The party has met most of these archetypes before, with the RONIN being the only new addition to the roster.
 
@@ -86,4 +86,109 @@ One RONIN is cleaved in half by Rigamarole, only to be replaced by another, rush
 
 Until No Escape chucks a smart mine into their midst, followed immediately by Nebula hurling a Ronin directly into the mine- allowing No Escape to detonate it, hitting four targets with a 2d6 blast. It's not a killer blow, but is quite heavy punishment for grouping so closely together- and *almost* wipes out the SCOUT. In retaliation, the ASSAULT reveals a previously unseen weapon, bombing the party with a surprisingly large-area grenade launcher.
 
-[Live Combat; Report Incomplete.]
+At this point we remember that Khalid is there, piloting his new mech **Rhythmless Walk**, as well as *four more GRUNT RONINs*, and they soon rush in to join the battle. The party soon murders the SCOUT and ASSAULT in short order, and Bombs Away clears most of the grunts off the field with her core missile barrage. 
+
+With so many enemies killed, the party is able to simply juggle the remaining forces away from the objective, and employ Rhythmless Walk's impressive speed and a lot of overcharging to drag two of the three trucks to the other side of the river, successfully extracting them. The third truck- containing Chief Engineer Fielding- has to be abandoned, and the veteran engineer is forced to sprint across an active battlefield to catch up with the rest of his squad.
+
+As the party reaches safety on the other side of the river, the hostile OPFOR melts back into the trees, dragging the captured truck with them.  The party is victorious, though they've taken a bit of a beating in the process. 
+
+### The Landing Bowl
+
+The party arrives at the flooded landing bowl and watch the engineers go to work. Chief Fielding is absolutely exhausted- by the run, the humidity, and the fact that he's been behind a desk for a few too many years. Hypatia makes some small talk with him for a bit, until he's able to pull himself together and go help his men.
+
+By evening, the pumps are in place, and begin pumping out the stale accumulation of rainwater that's bogging down the bowl. It's not a fast process, but soon Evergreen will be able to receive further external aid.
+
+As the party escorts the engineers back toward Evergreen, Khalid spots the glint of twilight off metal from the distant treetops. Thinking quickly, he scopes and fires his new Vulture DMR at the unknown assailant, a split second before a countershot rings out and fully cleaves through the stump of a nearby tree, sending it toppling over.
+
+Khalid goes to see if they can track down their assailant, but they find they've vanished- leaving only large, heavy footprints in the heavy undergrowth. Unwilling to recklessly pursue an unknown foe into potentially hostile terrain, Khalid returns to the envoy, and the group continue the journey home.
+
+As night falls, the party approaches the city- bright lights shining in the darkness- but are interrupted by an urgent call from Patience. The NHP administrator informs them that they've just received a distress call from one of the farming communities of the Gray Towns, begging for assistance. Given that the Gray Towns have broken from Evergreen's charter, Patience can't send deploy their own militia for this... but considering that the party doesn't *technically* work for Evergreen, there should be no issue in sending them out instead.
+
+The party- though tired- agrees readily, and changes course- leaving the engineers as they approach Evergreen's walls. The four battleworn mechs turn southward, toward the Chau Maize farmstead. 
+
+# Chau Maize Farmstead // Early Spring, 5014u
+
+## Home on the Range
+Our lancers are greeted by smoke and ash. They pass by buildings ravaged by flame, heading toward the Chau Maize farm proper. Around them, subalterns march listlessly through the fields of ruined harvest, ignoring their assigned tasks, and mechanical farming equipment meanders in pointless circles upon the fertile dirt, threshing blades carving up earth.
+
+The party hears the Chau SOS as they approach the farm, picking up a transmission from **Albert Chau** begging anyone who can hear him to help save his family. Surrounding the farmhouse is a veritable mob of subalterns, ominously gathered around the structure, as larger farming machines circle the entire gathering.
+
+Astri taps into the local network to try to figure out what's going on. As soon as they do, they hear an old signal, encoded in outdated mil-spec, reverberating throughout the area, echoing a broadcast that seems to repeat indefinitely:
+
+> \>//ATTEND:::THIS AREA IS UNDER UNION CONTROL, PURSUANT TO NAVCOMM SPECIAL ORDER 1/TBK(???)ALL ORGANIC LIFE HEREBY ORDERED:::EVAC INTENSITY 3 (GO NOW)
+> 
+> \>///ATTN.ENEMY:::[☠☠☠☠☠]
+> 
+> \>//ATTEND:::CURRENT THEATER (GRID:::A1-H3+ALL SUBGRIDS) IS PRIORITY TARGET FOR [PAVEDOWN_OVERRIDE] PER <MENDICANT_DEMAND=(OK)>
+> 
+> \>///ATTEND:::LEAVE THIS PLACE. THERE IS NOTHING HERE FOR YOU. MESSAGE WILL REPEAT:::X(X=ENDLESS)
+> 
+> \>///NOTICE:::YOU CAN STILL LEAVE::YOU DO NOT HAVE TO FIGHT::IF YOU SURRENDER, YOU WILL BE ACCOUNTED FOR AND TREATED WITH DIGNITY::YOU DO NOT HAVE TO FIGHT.
+> 
+> \>///NOTICE:::THROW DOWN YOUR WEAPONS. IT IS FOR YOUR OWN GOOD. I AM UNION I AM PEACE. HELP IS ON THE WAY.
+
+Khalid deploys to try to scope out the situation, and can see the source of the signal- a strange, shambling machine that looks like it was built out of a local-network signal tower forcibly merged onto a farming tractor. He lines up a shot and fires, attempting to take it out preemptively- but the smoke and ash make it hard to aim, and the shot goes wide- and draws an unfortunate amount of attention toward his mech, as the masses of subalterns rear up, suddenly hostile, and descend upon this new threat.
+
+And in the background, old farming machines begin to rev up, heading toward our lancers as they turn their tools of harvest into cruel, wicked weapons- wielding trashing blades that rend steel as well as wheat.
+
+### Combat Report: The Horde
+
+The party must claim the **Chau Farmhouse** from these unknown assailants in a **Gauntlet** mission. The enemy OPFOR consists of:
+
+- [The Broadcast]: an ELITE SPITE
+- SCOURER
+- WITCH
+- BERSERKER GRUNTS x2
+- SQUAD
+with reinforcements:
+- SCOURER
+- BERSERKER GRUNTS x2
+
+These 'mechs' are not proper wartime mechs- rather, they are standard farming equipment that has taken on a distinctly hostile attitude.
+
+[The Broadcast]- the source of the strange comms signal- soon reveals a dangerous assortment of abilities, beginning to infect the party with a damaging virus that prevents them from clearing heat, and creating an aura that retaliates damage whenever it or any of its allies are attacked. Nebula scans [The Broadcast], revealing all its secrets- but this doesn't make its abilities much easier to deal with.
+
+The WITCH works alongside [The Broadcast] to start stacking unclearable heat, while the SCOURER and BERSERKERS begin closing the distance to engage the party halfway across the map.
+
+The fight was hard-fought. The need to constantly push forward combined with the enemy's hard-hitting front-liners and the relatively frail frames of most of our lancers resulted in some heavy losses, with the party losing structure rapidly and forced to bargain to keep Nebula from being wiped from the fight early. Still, the party managed to drive through the enemy SCOURERs and BERSERKERS and just barely claim the Chau Farmhouse at the end of round 6, with No Escape and a Symbiosis'd Nebula exhausting their movement to land in the control zone at the last possible moment.
+
+The party needed to hold onto the zone for two more rounds, and had taken down every major striker on the field- but their mechs were so badly damaged it was unclear if they could last through the combination of the Broadcast's virus and the Witch stacking heat, especially considering [The Broadcast] was too bulky, armored, and undamaged to easily take out.
+
+No Escape (with Nebula still clinging onto them like a 'blister') found themselves on their last structure at just 1 hit point left against a Terrorthrone'd [Broadcast]. Resolving to do what they can before they died, Nebula managed to expose [The Broadcast], and No Escape took a wild shot at the aberrant mech...
+
+and rolled max damage, doubled via Exposed, dealing exactly 16 damage after armor. This perfectly structuring [The Broadcast], which immediately suffered a catastrophic failure and collapsed- unexpectedly ending the encounter. 
+
+Unfortunately, No Escape still suffered fatal Terrorthrone damage, destroying their mech in the process- leaving Vesper to continue on foot. Still, the Chau farmhouse is saved...
+
+### The Chau Farmhouse
+When [The Broadcast] falls, the aberrant signal pervading the air lessens, and the subalterns begin to disperse. They still seem abnormal, and wander off listlessly rather than resume daily operations, but at least they're not harassing the Chaus anymore.
+
+Albert & Nora, along their 3 children, are immensely relieved to be saved. The couple asks the lancers for one more favor- they'd like an escort to Nora's mother's farmhouse. As the family packs their belongings, the party investigates the remains of [The Broadcast].
+
+Initial investigation confirms that these farming 'mechs' lack a pilot, and seem to work on automated protocols. Nebula recovers a corrupted COMP/CON from the wreckage and breaks into it, revealing that [The Broadcast] seems to have been receiving commands from a root level user `>//BEGGAR_ONE`.  Poking even further, she discovers the following code:
+
+> `>///COMMAND_IMPERATIVE:::PARTITION OF LOCAL FORCES AS FOLLOWS: VBND_R, COMM_G, PART_B, AND CONSTITUENT ELEMENTS TO PROCEED TO STRIKE-ID TARGETS [XXXXXXXXXXX] AND ENGAGE. AWAIT TASKING FROM <BEGGAR_MENDICANT_VAGABOND> IN THAT ORDER`
+
+Astri manages to extract part of the code into a semi-sentient program called Cynosure, which may have useful combat applications. She takes it along, downloading it into a drive for future use.
+
+Albert Chau explains that normally they should be able to issue commands to their farming subalterns via the farm COMP/CON, but he seems to have been locked out. Astri endeavors to seize back local control from whatever force has subverted it, and spends the next two hours taxing Nebula's power systems in an exhausting battle of digital endurance. When she finally emerges, however, control over local units has been returned to the Chau farmhouse!
+
+The Chaus still want to head to Maggie Chau's farmstead, but are grateful that their own farm is safe, and will be able to resume operations after some time away.
+
+The party escorts Albert & Nora & their three children to Maggie Chau's farmhouse. The eldest Chau child excitedly harangues Vesper about becoming a lancer, but Vesper tries to discourage them and guide them toward a more normal/safer profession.
+
+Eventually the party arrives at Maggie Chau's farmstead. Maggie is a well-built woman who, along with her wife Weiyi, have raised 10 children, each of whom has started their own farmstead- making her the de-facto head of a tiny farming empire. Maggie invites the party in for a late night meal and convinces them to stay the night before heading back to Evergreen.
+
+After a few good, solid homecooked meals with Maggie, the party heads back to Evergreen to report in with Patience (with Maggie giving Vesper a ride in her truck). Over the last night, it's become clear that Maggie really doesn't like Patience- she explains that she & Weiyi spent much of their life in Evergreen, but were unceremoniously kicked out when their noncitizen status was discovered. She's a little conflicted when told that Patience is the one who deployed our lancers to rescue Albert & Nora, but is clearly still nursing old grudges.
+
+The party arrives at Evergreen and reports to Patience, handing over the COMP/CON Patience seems worried by this new development, but commends the party for their good work in the field, and awards them with the necessary resources & permissions to reach LL3 before sending them to get some rest.
+
+## Downtime
+
+The party spends some time unwinding around the city. Of note, the party manages to dig up an old SecComm era mech from the remains outside the city- gaining a single GENGHIS MK-1, dubbed the WORLDKILLER. This brutal precursor to the modern Genghis is a highly armored hunk of pyromaniacal metal, and might prove to be a useful weapon in the future- though nobody seems eager to hop into it quite just yet.
+
+Hypatia finally acquires a new mech- the SSC Orchis, dubbed Diplomacy. She also spends some time learning about the Egregorians- the insect race that SecComm wiped out during their colonization efforts- and discovers that these massive bugs were apparently a savage, tool-wielding hivemind that proved *remarkably* difficult to exterminate. SecComm resorted to wildly destructive protocols in their extermination war, rendering much of the planet uninhabitable in their bid to wipe them out. (See WORLDKILLER, above.) Before SecComm could even really consider whether they still *wanted* Hercynia, civil revolution erupted across the galaxy, eventually leading to the end of SecComm and the rise of ThirdComm.
+
+Vesper makes friends with Evergreen's head baker and learns more about the Gray Towns.
+
+Khalid begins working on some mech equipment. It's not ready yet, but he'll be able to finish it during the next downtime, assuming he can get the necessary materials/workshop.
