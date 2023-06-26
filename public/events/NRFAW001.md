@@ -192,3 +192,5 @@ Hypatia finally acquires a new mech- the SSC Orchis, dubbed Diplomacy. She also 
 Vesper makes friends with Evergreen's head baker and learns more about the Gray Towns.
 
 Khalid begins working on some mech equipment. It's not ready yet, but he'll be able to finish it during the next downtime, assuming he can get the necessary materials/workshop.
+
+## Mission Complete.
