@@ -94,13 +94,13 @@ export default {
       "events": "NRFAW001",
       "missions": [
         {
-          "slug": "SR001",
-          "name": "The Drop",
-          "status": "partial-success"
+          "slug": "NRFAW003",
+          "name": "Floodgate",
+          "status": "start"
         },
         {
-          "slug": "SR002",
-          "name": "Daybreak",
+          "slug": "NRFAW002",
+          "name": "Vigilant Gaze",
           "status": "success"
         },
         {
@@ -109,14 +109,14 @@ export default {
           "status": "success"
         },
         {
-          "slug": "NRFAW002",
-          "name": "Vigilant Gaze",
+          "slug": "SR002",
+          "name": "Daybreak",
           "status": "success"
         },
         {
-          "slug": "NRFAW003",
-          "name": "Floodgate",
-          "status": "start"
+          "slug": "SR001",
+          "name": "The Drop",
+          "status": "partial-success"
         }
       ],
       "pilots": [
