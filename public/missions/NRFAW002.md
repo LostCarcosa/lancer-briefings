@@ -11,4 +11,4 @@
 - ADDENDUM: If REGRET is not taken out, Evergreen's Omninode will be destroyed, cutting off the colony's communications with the wider galazy.
 
 # Reserves
-- Depends.
+- 1 Bottle Special Reserve Wine (From Captain Brigid Harris)
