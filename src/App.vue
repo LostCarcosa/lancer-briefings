@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "NRFAW001",
+      "mission_slug": "NRFAW003",
       "current_md": "",
-      "events": "NRFAW001",
+      "events": "NRFAW003",
       "missions": [
         {
           "slug": "NRFAW003",
