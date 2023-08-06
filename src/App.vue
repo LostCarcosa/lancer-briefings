@@ -107,6 +107,16 @@ export default {
           "slug": "NRFAW001",
           "name": "Bug Hunt",
           "status": "success"
+        },
+        {
+          "slug": "NRFAW002",
+          "name": "Vigilant Gaze",
+          "status": "success"
+        },
+        {
+          "slug": "NRFAW003",
+          "name": "Floodgate",
+          "status": "start"
         }
       ],
       "pilots": [
