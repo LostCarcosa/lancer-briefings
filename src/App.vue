@@ -89,14 +89,19 @@ export default {
 
   data() {
     return {
-      "mission_slug": "NRFAW003",
+      "mission_slug": "NRFAW004",
       "current_md": "",
-      "events": "NRFAW003",
+      "events": "NRFAW004",
       "missions": [
+        {
+          "slug": "NRFAW004",
+          "name": "Rallying Cry",
+          "status": "start"
+        },
         {
           "slug": "NRFAW003",
           "name": "Floodgate",
-          "status": "start"
+          "status": "partial-success"
         },
         {
           "slug": "NRFAW002",
